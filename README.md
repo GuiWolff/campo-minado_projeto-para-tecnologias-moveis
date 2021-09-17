@@ -1,6 +1,7 @@
 # trabalho1
 
 Trabalho 1 para a cadeira de Projetos e Tecnologias Móveis - Eng. de Controle e Automação - PUCRS
+Técnologia: Flutter
 
 Splash-Screen:
 
