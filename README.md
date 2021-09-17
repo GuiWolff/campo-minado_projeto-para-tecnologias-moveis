@@ -8,19 +8,19 @@ Splash-Screen:
   <img src="https://github.com/GuiWolff/campo-minado_projeto-para-tecnologias-moveis/blob/master/assets/screenshots/1.png?raw=true?raw=true )" width="350" title="hover text">
 </p>
 
-Splash-Screen:
+Início:
 
 <p align="left">
   <img src="https://github.com/GuiWolff/campo-minado_projeto-para-tecnologias-moveis/blob/master/assets/screenshots/2.png?raw=true?raw=true )" width="350" title="hover text">
 </p>
 
-Splash-Screen:
+Drawer:
 
 <p align="left">
   <img src="https://github.com/GuiWolff/campo-minado_projeto-para-tecnologias-moveis/blob/master/assets/screenshots/3.png?raw=true?raw=true )" width="350" title="hover text">
 </p>
 
-Splash-Screen:
+Boom (efeito de explosão):
 
 <p align="left">
   <img src="https://github.com/GuiWolff/campo-minado_projeto-para-tecnologias-moveis/blob/master/assets/screenshots/4.png?raw=true?raw=true )" width="350" title="hover text">
