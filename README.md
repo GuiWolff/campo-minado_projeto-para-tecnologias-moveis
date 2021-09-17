@@ -2,4 +2,4 @@
 
 Trabalho 1 para a cadeira de Projetos e Tecnologias Móveis - Eng. de Controle e Automação - PUCRS
 
-![Alt text](https://github.com/GuiWolff/campo-minado_projeto-para-tecnologias-moveis/assets/screenshots/1.png?raw=true )
+![Alt text](https://github.com/GuiWolff/campo-minado_projeto-para-tecnologias-moveis/blob/master/assets/screenshots/1.png?raw=true?raw=true )
